@@ -1,7 +1,7 @@
-#tokenRequestLib
+# tokenRequestLib
 Allowes to requst and verify a openID connect token.
 
-###  Install
+### Install
 ```npm i @tobias_schn/experimental_tokenrequestlib@1.0.0```
 ### Import
 import { HandleRidt, RidtVerificationResult } from '@tobias_schn/experimental_tokenrequestlib'
